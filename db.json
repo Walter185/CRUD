@@ -1,9 +1,14 @@
 {
   "perfil": [
     {
-      "nombre": "Christian",
-      "email": "Christian@alura.com",
-      "id": 1
+      "nombre": "Pedro",
+      "email": "pedro@alura.com",
+      "id": "b007442c-8aad-456b-b6a1-4fee1562eb84"
+    },
+    {
+      "nombre": "walter",
+      "email": "walter.liendo@gmail.com",
+      "id": "04a7ef0c-57e3-4448-8f19-60d6c478b943"
     }
   ]
 }
